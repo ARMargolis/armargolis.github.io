@@ -1,5 +1,5 @@
 ---
-title: Analysis of Crime Data
+title: Crime Analysis
 description: Analysis of Uniform Crime Reporting data from the FBI
 ---
 
