@@ -1,9 +1,10 @@
 ---
-title: Crime Analysis
-description: Analysis of Uniform Crime Reporting data from the FBI
+title: Aaron's Learning
+description: A repository of machine learning and big data projects
 ---
 
 ![Chagall's Le Fleurs](Chagall-LeFleurs.jpg)
+Le Fleurs, by Marc Chagall
 
 Here is a Mean Shift Analysis of the Uniform Crime Reporting data published by the FBI.
 I use TensorFlow 2.0 to do the analysis and bokeh to create the map.
