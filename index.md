@@ -12,5 +12,5 @@ I use TensorFlow 2.0 to do the analysis and bokeh to create the map.
 - [UCRanalysis.html](/crime_analysis/UCRanalysis.html)
 - [crime_us_map.html](/crime_analysis/crime_us_map.html)
 
-![Metamorphosis II](Metamorphosis_IIexcerpt 1.png)
+![Metamorphosis II](Metamorphosis_IIexcerpt1.png)
 Excerpt of Metamorphosis II, by Marc Chagall
