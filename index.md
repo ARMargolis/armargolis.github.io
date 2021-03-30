@@ -17,7 +17,8 @@ I use TensorFlow 2.0 to do the analysis and bokeh to create the map.
   
 - Better Bin Packing Through Matrix Multiplication
 Using matrix multiplication to speed up a classic optimization problem
-  [Latest Version](matrix_bin_packing/Matrix_Bin_Packing_v2.ipynb
+
+  [Latest Version](https://github.com/ARMargolis/matrix_bin_packing)
 
 ![Metamorphosis II](Metamorphosis_IIexcerpt1.png)
 Excerpt of Metamorphosis II, by Marc Chagall
