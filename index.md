@@ -35,7 +35,7 @@ Secondary goal of building more explainable artificial intelligence. [Repo here]
 - Quantum Computing for Network Analysis
 A proof-of-concept for identifying likely asymptomatic CoVID-19 carriers through network analysis by applying simulated quantum computing with qiskit. Entry into Qiskit Community Summer Jam 2020 https://qiskit-community-summer-jam-new-england.hackerearth.com/
 
-[Final Presentation](https://github.com/ARMargolis/contact_tracer/blob/master/presentation/quantumhack.pptx)
+    [Final Presentation](https://github.com/ARMargolis/contact_tracer/blob/master/presentation/quantumhack.pptx)
 
 ![Metamorphosis II 2](MetamorphosisII_excerpt2.png)
 End  of Metamorphosis II, by Marc Chagall
