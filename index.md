@@ -10,9 +10,9 @@ Writing a privacy product specification for a privacy-preserving neural network 
   [priv_violence_detector]/priv_violence_detector/README.md
 
 - Mean Shift Analysis of the Uniform Crime Reporting data published by the FBI. I use TensorFlow 2.0 to do the analysis and bokeh to create the map.
---  [UCRanalysis.ipnyb](/crime_analysis/UCRanalysis.ipnyb)
---  [UCRanalysis.html](/crime_analysis/UCRanalysis.html)
---  [crime_us_map.html](/crime_analysis/crime_us_map.html)
+  - [UCRanalysis.ipnyb](/crime_analysis/UCRanalysis.ipnyb)
+  - [UCRanalysis.html](/crime_analysis/UCRanalysis.html)
+  - [crime_us_map.html](/crime_analysis/crime_us_map.html)
   
 - Better Bin Packing Through Matrix Multiplication
 Using matrix multiplication to speed up a classic optimization problem
