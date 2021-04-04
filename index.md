@@ -9,6 +9,8 @@ Current projects:
 Writing a privacy product specification for a privacy-preserving neural network for video analysis as part of my capstone for the [OpenMined course](https://courses.openmined.org/courses), "Our Privacy Opportunity." 
   [Privacy-Preserving Violence Detector](https://github.com/ARMargolis/priv_violence_detector/blob/main/README.md)
   
+- [Kaggle Birdcall Identification](https://www.kaggle.com/c/birdclef-2021) using novel data augmentation. Let me know if you want to join my team! 
+  
 - Mean Shift Analysis of the Uniform Crime Reporting data published by the FBI.
 I use TensorFlow 2.0 to do the analysis and bokeh to create the map.
   - [UCRanalysis.ipnyb](/crime_analysis/UCRanalysis.ipnyb)
