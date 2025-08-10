@@ -3,7 +3,7 @@ title: Aaron's Learning
 description: A repository of machine learning and big data projects
 ---
 
-#Geometric Deep Learning Study Group
+## Geometric Deep Learning Study Group
 We're working on our way through ["Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges"](https://geometricdeeplearning.com/book/)
 by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković
 We’ll use the chapters rather than the big pdf, and also presenting on other papers.
