@@ -33,7 +33,9 @@ Possible Presentation Topics:
 [Valence Labs](https://portal.valencelabs.com)
 [Graph Learning on Wednesdays](https://sites.google.com/view/graph-learning-on-weds)
 
-Previous projects:
+***
+
+## Previous projects:
 
 - Privacy-preserving Detection of Violence in Cameras
 Writing a privacy product specification for a privacy-preserving neural network for video analysis as part of my capstone for the [OpenMined course](https://courses.openmined.org/courses), "Our Privacy Opportunity." 
