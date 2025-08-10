@@ -3,14 +3,42 @@ title: Aaron's Learning
 description: A repository of machine learning and big data projects
 ---
 
-Current projects:
+#Geometric Deep Learning Study Group
+We're working on our way through ["Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges"](https://geometricdeeplearning.com/book/)
+by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković
+We’ll use the chapters rather than the big pdf, and also presenting on other papers.
+
+[To join the study group, fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe6T7KujHbJBLQaDSMcnaCFrfvKjDLrtH8CSZVWVr6G4HedNg/viewform?usp=header)
+
+Session 1: August 11, at 11am EDT/3pm GMT/5pm CEDT
+
+Presentation Topic: [Geometric Deep Learning Reveals the Spatio-Temporal Features of Microscopic Motion](https://www.nature.com/articles/s42256-022-00595-0)
+Aaron Presenting
+
+Session 2: September 1, at 11am EDT/3pm GMT/5pm CEDT
+Reading: [Introduction](https://geometricdeeplearning.com/book/introduction.html) 
+Lecture: [ICLR 2021 Keynote: GDL: The Erlangen Programme of ML by M Bronstein”](https://www.youtube.com/watch?v=w6Pw4MOzMuo) 
+
+[To present fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfjuvRWuHfQ9M11uz9PUnq_3j_trOAcTyDG2a5yPoMvMWgfLQ/viewform?usp=header)
+
+Additional References:
+[Mathematical Foundations of Geometric Deep Learning by Borde and Bronstein](https://www.arxiv.org/abs/2508.02723)
+[Introduction to Geometric Deep Learning by Patrick Nicolas](https://patricknicolas.substack.com/p/introduction-to-geometric-deep-learning)
+
+Session 3: September 22, at 11am EDT/3pm GMT/5pm CEDT
+Reading: [Graphs](​​https://geometricdeeplearning.com/book/graphs.html)
+Lecture: [Deep learning on graphs: successes, challenges by Bronstein](https://www.youtube.com/watch?v=PLGcx65MhCc)
+
+Possible Presentation Topics:
+[Valence Labs](https://portal.valencelabs.com)
+[Graph Learning on Wednesdays](https://sites.google.com/view/graph-learning-on-weds)
+
+Previous projects:
 
 - Privacy-preserving Detection of Violence in Cameras
 Writing a privacy product specification for a privacy-preserving neural network for video analysis as part of my capstone for the [OpenMined course](https://courses.openmined.org/courses), "Our Privacy Opportunity." 
   [Privacy-Preserving Violence Detector](https://github.com/ARMargolis/priv_violence_detector/blob/main/README.md)
-  
-- [Kaggle Birdcall Identification](https://www.kaggle.com/c/birdclef-2021) using novel data augmentation. Let me know if you want to join my team! 
-  
+    
 - Mean Shift Analysis of the Uniform Crime Reporting data published by the FBI.
 I use TensorFlow 2.0 to do the analysis and bokeh to create the map.
   - [UCRanalysis.ipnyb](/crime_analysis/UCRanalysis.ipnyb)
@@ -25,7 +53,6 @@ Using matrix multiplication to speed up a classic optimization problem
 ![Metamorphosis II](Metamorphosis_IIexcerpt1.png)
 Excerpt of Metamorphosis II, by Marc Chagall
 
-Previous projects:
 - Optimizing Sailor Health for NavalX's Hack The Machine.
 Part of second place finish in Data Science Track. Wrote code for [Challenge 3: Optimizing Sailor Health](https://github.com/ARMargolis/Track2_Challenges_Data/tree/main/Challenge3)
 
