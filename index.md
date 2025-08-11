@@ -12,6 +12,8 @@ We’ll use the chapters rather than the big pdf, and also presenting on other p
 
 Session 1: August 11, at 11am EDT/3pm GMT/5pm CEDT
 
+[Slides](https://github.com/ARMargolis/armargolis.github.io/blob/main/Geometric%20Deep%20Learning%2020250811.pdf)
+
 Presentation Topic: [Geometric Deep Learning Reveals the Spatio-Temporal Features of Microscopic Motion](https://www.nature.com/articles/s42256-022-00595-0)
 Aaron Presenting
 
