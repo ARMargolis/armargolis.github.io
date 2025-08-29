@@ -32,7 +32,9 @@ Reading: [Graphs](​​https://geometricdeeplearning.com/book/graphs.html)
 Lecture: [Deep learning on graphs: successes, challenges by Bronstein](https://www.youtube.com/watch?v=PLGcx65MhCc)
 
 Optional Lectures on GNNs: Graph Neural Networks with Petar Velickovic [https://www.youtube.com/watch?v=fpb3j33RfTc]
+
 [Graph Convolutional Networks by Federico Barbero](https://www.youtube.com/watch?v=CwHNUX2GWvE)
+
 [Graph Attention Networks by Federico Barbero](https://www.youtube.com/watch?v=iAEDA8aDCZg)
 
 Possible Presentation Topics:
@@ -41,7 +43,9 @@ Possible Presentation Topics:
 
 Session 4: October 13, at 11am EDT/3pm GMT/5pm CEDT
 Readings: [Foundations of Supervised Learning](https://geometricdeeplearning.com/book/foundations.html)
+
 [Foundations of Equivariant Learning](https://geometricdeeplearning.com/book/algebraicpriors.html)
+
 Lecture: [Equivariant Networks by Taco Cohen](https://slideslive.com/38943570/equivariant-networks)
 
 ***
