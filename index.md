@@ -18,7 +18,8 @@ Presentation Topic: [Geometric Deep Learning Reveals the Spatio-Temporal Feature
 Aaron Presenting
 
 ### Session 2: September 1, at 11am EDT/3pm GMT/5pm CEDT
-Reading: [Introduction](https://geometricdeeplearning.com/book/introduction.html) 
+Reading: [Introduction](https://geometricdeeplearning.com/book/introduction.html)
+
 Lecture: [ICLR 2021 Keynote: GDL: The Erlangen Programme of ML by M Bronstein”](https://www.youtube.com/watch?v=w6Pw4MOzMuo) 
 
 [To present fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfjuvRWuHfQ9M11uz9PUnq_3j_trOAcTyDG2a5yPoMvMWgfLQ/viewform?usp=header)
@@ -29,9 +30,10 @@ Additional References:
 
 ### Session 3: September 22, at 11am EDT/3pm GMT/5pm CEDT
 Reading: [Graphs](​​https://geometricdeeplearning.com/book/graphs.html)
-Lecture: [Deep learning on graphs: successes, challenges by Bronstein](https://www.youtube.com/watch?v=PLGcx65MhCc)
 
-Optional Lectures on GNNs: [Graph Neural Networks with Petar Velickovic](https://www.youtube.com/watch?v=fpb3j33RfTc)
+Lecture: [Graph Neural Networks with Petar Velickovic](https://www.youtube.com/watch?v=fpb3j33RfTc)
+
+Optional Lectures on GNNs: [Deep learning on graphs: successes, challenges by Bronstein](https://www.youtube.com/watch?v=PLGcx65MhCc)
 
 [Graph Convolutional Networks by Federico Barbero](https://www.youtube.com/watch?v=CwHNUX2GWvE)
 
