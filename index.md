@@ -10,14 +10,14 @@ We’ll use the chapters rather than the big pdf, and also presenting on other p
 
 [To join the study group, fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe6T7KujHbJBLQaDSMcnaCFrfvKjDLrtH8CSZVWVr6G4HedNg/viewform?usp=header)
 
-# Session 1: August 11, at 11am EDT/3pm GMT/5pm CEDT
+### Session 1: August 11, at 11am EDT/3pm GMT/5pm CEDT
 
 [Slides](https://github.com/ARMargolis/armargolis.github.io/blob/main/Geometric%20Deep%20Learning%2020250811.pdf)
 
 Presentation Topic: [Geometric Deep Learning Reveals the Spatio-Temporal Features of Microscopic Motion](https://www.nature.com/articles/s42256-022-00595-0)
 Aaron Presenting
 
-# Session 2: September 1, at 11am EDT/3pm GMT/5pm CEDT
+### Session 2: September 1, at 11am EDT/3pm GMT/5pm CEDT
 Reading: [Introduction](https://geometricdeeplearning.com/book/introduction.html) 
 Lecture: [ICLR 2021 Keynote: GDL: The Erlangen Programme of ML by M Bronstein”](https://www.youtube.com/watch?v=w6Pw4MOzMuo) 
 
@@ -27,7 +27,7 @@ Additional References:
 [Mathematical Foundations of Geometric Deep Learning by Borde and Bronstein](https://www.arxiv.org/abs/2508.02723)
 [Introduction to Geometric Deep Learning by Patrick Nicolas](https://patricknicolas.substack.com/p/introduction-to-geometric-deep-learning)
 
-# Session 3: September 22, at 11am EDT/3pm GMT/5pm CEDT
+### Session 3: September 22, at 11am EDT/3pm GMT/5pm CEDT
 Reading: [Graphs](​​https://geometricdeeplearning.com/book/graphs.html)
 Lecture: [Deep learning on graphs: successes, challenges by Bronstein](https://www.youtube.com/watch?v=PLGcx65MhCc)
 
