@@ -41,7 +41,7 @@ Possible Presentation Topics:
 [Valence Labs](https://portal.valencelabs.com)
 [Graph Learning on Wednesdays](https://sites.google.com/view/graph-learning-on-weds)
 
-# Session 4: October 13, at 11am EDT/3pm GMT/5pm CEDT
+### Session 4: October 13, at 11am EDT/3pm GMT/5pm CEDT
 
 Readings: [Foundations of Supervised Learning](https://geometricdeeplearning.com/book/foundations.html)
 
