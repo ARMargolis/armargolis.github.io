@@ -33,11 +33,15 @@ Reading: [Graphs](​​https://geometricdeeplearning.com/book/graphs.html)
 
 Lecture: [Graph Neural Networks with Petar Velickovic](https://www.youtube.com/watch?v=fpb3j33RfTc)
 
+Tutorial: [Intro to GNNs](https://colab.research.google.com/drive/1Z0D10BFMdbsTM7lwPYrrJCe7z4yD48EE)
+
 Optional Lectures on GNNs: [Deep learning on graphs: successes, challenges by Bronstein](https://www.youtube.com/watch?v=PLGcx65MhCc)
 
 [Graph Convolutional Networks by Federico Barbero](https://www.youtube.com/watch?v=CwHNUX2GWvE)
 
 [Graph Attention Networks by Federico Barbero](https://www.youtube.com/watch?v=iAEDA8aDCZg)
+
+Optional Tutorial: [Molecular Property Prediction with GNNs](https://colab.research.google.com/drive/1p9vlVAUcQZXQjulA7z_FyPrB9UXFATrR)
 
 Possible Presentation Topics:
 [Valence Labs](https://portal.valencelabs.com)
