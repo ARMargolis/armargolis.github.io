@@ -43,6 +43,7 @@ Optional Lectures on GNNs: [Deep learning on graphs: successes, challenges by Br
 
 Presentations:
 Working through "Intro to GNNs" Tutorial
+
 Possible Project on [TacticAI](https://www.nature.com/articles/s41467-024-45965-x)
 
 ### Session 4: October 13, at 11am EDT/3pm GMT/5pm CEDT
