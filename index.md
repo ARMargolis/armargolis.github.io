@@ -14,9 +14,6 @@ We’ll use the chapters rather than the big pdf, and also presenting on other p
 
 [Slides](https://github.com/ARMargolis/armargolis.github.io/blob/main/Geometric%20Deep%20Learning%2020250811.pdf)
 
-Presentation Topic: [Geometric Deep Learning Reveals the Spatio-Temporal Features of Microscopic Motion](https://www.nature.com/articles/s42256-022-00595-0)
-Aaron Presenting
-
 ### Session 2: September 1, at 11am EDT/3pm GMT/5pm CEDT
 Reading: [Introduction](https://geometricdeeplearning.com/book/introduction.html)
 
@@ -27,6 +24,9 @@ Lecture: [ICLR 2021 Keynote: GDL: The Erlangen Programme of ML by M Bronstein”
 Additional References:
 [Mathematical Foundations of Geometric Deep Learning by Borde and Bronstein](https://www.arxiv.org/abs/2508.02723)
 [Introduction to Geometric Deep Learning by Patrick Nicolas](https://patricknicolas.substack.com/p/introduction-to-geometric-deep-learning)
+
+Presentation Topic: [Geometric Deep Learning Reveals the Spatio-Temporal Features of Microscopic Motion](https://www.nature.com/articles/s42256-022-00595-0)
+Aaron Presenting
 
 ### Session 3: September 22, at 11am EDT/3pm GMT/5pm CEDT
 Reading: [Graphs](​​https://geometricdeeplearning.com/book/graphs.html)
@@ -41,13 +41,20 @@ Optional Lectures on GNNs: [Deep learning on graphs: successes, challenges by Br
 
 [Graph Attention Networks by Federico Barbero](https://www.youtube.com/watch?v=iAEDA8aDCZg)
 
-Optional Tutorial: [Molecular Property Prediction with GNNs](https://colab.research.google.com/drive/1p9vlVAUcQZXQjulA7z_FyPrB9UXFATrR)
-
-Possible Presentation Topics:
-[Valence Labs](https://portal.valencelabs.com)
-[Graph Learning on Wednesdays](https://sites.google.com/view/graph-learning-on-weds)
+Presentations:
+Working through "Intro to GNNs" Tutorial
+Possible Project on [TacticAI](https://www.nature.com/articles/s41467-024-45965-x)
 
 ### Session 4: October 13, at 11am EDT/3pm GMT/5pm CEDT
+
+Lecture: [Geometric Graph Neural Networks by Chaitanya Joshi](https://youtu.be/5ulJMtpiKGc)
+
+Tutorial: [Molecular Property Prediction with GNNs](https://colab.research.google.com/drive/1p9vlVAUcQZXQjulA7z_FyPrB9UXFATrR)
+
+Presentations:
+Working through "Molecular Property Prediction with GNNs" tutorial
+
+### Session 5: November 3, at 11am EDT/3pm GMT/5pm CEDT
 
 Readings: [Foundations of Supervised Learning](https://geometricdeeplearning.com/book/foundations.html)
 
@@ -56,6 +63,11 @@ Readings: [Foundations of Supervised Learning](https://geometricdeeplearning.com
 Lecture: [Equivariant Networks by Taco Cohen](https://slideslive.com/38943570/equivariant-networks)
 
 ***
+
+Possible Presentation Topics:
+[Valence Labs](https://portal.valencelabs.com)
+[Graph Learning on Wednesdays](https://sites.google.com/view/graph-learning-on-weds)
+
 
 ## Previous projects:
 
