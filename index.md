@@ -42,13 +42,14 @@ Optional Lectures on GNNs: [Deep learning on graphs: successes, challenges by Br
 [Graph Attention Networks by Federico Barbero](https://www.youtube.com/watch?v=iAEDA8aDCZg)
 
 Presentations:
+
 Working through "Intro to GNNs" Tutorial
 
 Possible Project on [TacticAI](https://www.nature.com/articles/s41467-024-45965-x)
 
 ### Session 4: October 13, at 11am EDT/3pm GMT/5pm CEDT
 
-Lecture: [Geometric Graph Neural Networks by Chaitanya Joshi](https://youtu.be/5ulJMtpiKGc)
+Lecture: [Graph Neural Networks for Geometric Graphs by Chaitanya Joshi](https://www.youtube.com/watch?v=VKj5wzZsoK4)
 
 Tutorial: [Molecular Property Prediction with GNNs](https://colab.research.google.com/drive/1p9vlVAUcQZXQjulA7z_FyPrB9UXFATrR)
 
