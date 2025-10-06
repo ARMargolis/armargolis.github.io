@@ -1,4 +1,4 @@
----
+<img width="117" height="20" alt="image" src="https://github.com/user-attachments/assets/baa71219-faa1-49bf-8d84-6019b6abaa40" />---
 title: Aaron's Learning
 description: A repository of machine learning and big data projects
 ---
@@ -43,7 +43,7 @@ Optional Lectures on GNNs: [Deep learning on graphs: successes, challenges by Br
 
 Presentations:
 
-Working through "Intro to GNNs" Tutorial
+Working through "Intro to GNNs" Tutorial, Part 1
 
 Possible Project on [TacticAI](https://www.nature.com/articles/s41467-024-45965-x)
 
@@ -51,10 +51,12 @@ Possible Project on [TacticAI](https://www.nature.com/articles/s41467-024-45965-
 
 Lecture: [Graph Neural Networks for Geometric Graphs by Chaitanya Joshi](https://www.youtube.com/watch?v=VKj5wzZsoK4)
 
-Tutorial: [Molecular Property Prediction with GNNs](https://colab.research.google.com/drive/1p9vlVAUcQZXQjulA7z_FyPrB9UXFATrR)
+Tutorials: [Intro to GNNs, Part 2](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical1_2025.ipynb)
+[Molecular Property Prediction with GNNs, Parts 0 and 1](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical_3_2025.ipynb)
 
 Presentations:
 Working through "Molecular Property Prediction with GNNs" tutorial
+Deciding on which project to work on: Global Football, NFL Big Data Bowl, or Fake News Detection
 
 ### Session 5: November 3, at 11am EDT/3pm GMT/5pm CEDT
 
@@ -63,6 +65,9 @@ Readings: [Foundations of Supervised Learning](https://geometricdeeplearning.com
 [Foundations of Equivariant Learning](https://geometricdeeplearning.com/book/algebraicpriors.html)
 
 Lecture: [Equivariant Networks by Taco Cohen](https://slideslive.com/38943570/equivariant-networks)
+
+Tutorials: [Molecular Property Prediction with GNNs, Parts 3-5](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical_3_2025.ipynb)
+
 
 ***
 
