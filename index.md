@@ -60,7 +60,7 @@ Presentations:
 Working through "Molecular Property Prediction with GNNs" tutorial
 Deciding on which project to work on: Global Football, NFL Big Data Bowl, or Fake News Detection
 
-### Session 5: November 3, at 11am EDT/3pm GMT/5pm CEDT
+### Session 5: November 3, at 11am EST/4pm GMT/5pm CEST
 Readings (blogs by Bronstein and collaborators): 
 [Expressive power of graph neural networks and the Weisfeiler-Lehman test
 ](https://medium.com/data-science/expressive-power-of-graph-neural-networks-and-the-weisefeiler-lehman-test-b883db3c7c49)
@@ -79,7 +79,7 @@ You can skip the first 10 minutes and start at 10:00
 Tutorials: [Molecular Property Prediction with GNNs, Parts 3-5](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical_3_2025.ipynb)
 
 
-### Session 6: November 17, at 11am EDT/3pm GMT/5pm CEDT
+### Session 6: November 17, at 11am EST/4pm GMT/5pm CEST
 
 Readings: [Foundations of Supervised Learning](https://geometricdeeplearning.com/book/foundations.html)
 
@@ -89,7 +89,7 @@ Lecture: [Equivariant Networks by Taco Cohen](https://slideslive.com/38943570/eq
 
 Tutorials: [Group Equivariant Neural Networks](https://colab.research.google.com/drive/1h7U15-qFC2yy6roRIfLPk5TSlo6sONsm)
 
-### Session 7: December 1, at 11am EDT/3pm GMT/5pm CEDT
+### Session 7: December 1, at 11am EST/4pm GMT/5pm CEST
 
 Readings: [Foundations of Geometric Learning](https://geometricdeeplearning.com/book/geometricpriors.html)
 
