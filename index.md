@@ -52,9 +52,11 @@ Possible Project on [TacticAI](https://www.nature.com/articles/s41467-024-45965-
 Lecture: [Graph Neural Networks for Geometric Graphs by Chaitanya Joshi](https://www.youtube.com/watch?v=VKj5wzZsoK4)
 
 Tutorials: [Intro to GNNs, Part 2](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical1_2025.ipynb)
+
 [Molecular Property Prediction with GNNs, Parts 0 and 1](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical_3_2025.ipynb)
 
 Presentations:
+[Expressivity and Under-reaching](https://github.com/ARMargolis/armargolis.github.io/blob/main/Geometric%20Deep%20Learning%2020251013.pdf)
 Working through "Molecular Property Prediction with GNNs" tutorial
 Deciding on which project to work on: Global Football, NFL Big Data Bowl, or Fake News Detection
 
