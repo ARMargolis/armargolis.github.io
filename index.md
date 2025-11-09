@@ -81,17 +81,22 @@ Tutorials: [Molecular Property Prediction with GNNs, Parts 3-5](https://colab.re
 
 ### Session 6: November 17, at 11am EST/4pm GMT/5pm CEST
 
-Readings: [Foundations of Supervised Learning](https://geometricdeeplearning.com/book/foundations.html)
+Readings: [Foundations of Equivariant Learning](https://geometricdeeplearning.com/book/algebraicpriors.html)
 
-[Foundations of Equivariant Learning](https://geometricdeeplearning.com/book/algebraicpriors.html)
+[Foundations of Supervised Learning](https://geometricdeeplearning.com/book/foundations.html)
+(Optional)
 
 Lecture: [Equivariant Networks by Taco Cohen](https://slideslive.com/38943570/equivariant-networks)
+Only Part 1 (through 1:20)
 
 Tutorials: [Group Equivariant Neural Networks](https://colab.research.google.com/drive/1h7U15-qFC2yy6roRIfLPk5TSlo6sONsm)
 
 ### Session 7: December 1, at 11am EST/4pm GMT/5pm CEST
 
 Readings: [Foundations of Geometric Learning](https://geometricdeeplearning.com/book/geometricpriors.html)
+
+[Foundations of Supervised Learning](https://geometricdeeplearning.com/book/foundations.html)
+(Optional)
 
 ***
 
