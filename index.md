@@ -78,6 +78,8 @@ You can skip the first 10 minutes and start at 10:00
 
 Tutorials: [Molecular Property Prediction with GNNs, Parts 3-5](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical_3_2025.ipynb)
 
+Presentations:
+[Graph Curvature and Oversquashing](https://github.com/ARMargolis/armargolis.github.io/blob/main/Geometric%20Deep%20Learning%2020250811.pdf)
 
 ### Session 6: November 17, at 11am EST/4pm GMT/5pm CEST
 
