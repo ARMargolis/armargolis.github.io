@@ -104,8 +104,9 @@ Readings: [Foundations of Geometric Learning](https://geometricdeeplearning.com/
 (Optional)
 
 Lectures: 
-[Manifolds with Michael Bronstein] (https://www.youtube.com/watch?v=YCncgm38-bA)
-[Gauges with Taco Cohen] (https://www.youtube.com/watch?v=vu8-uSB6BAA) (Optional)
+[Manifolds with Michael Bronstein](https://www.youtube.com/watch?v=YCncgm38-bA)
+
+[Gauges with Taco Cohen](https://www.youtube.com/watch?v=vu8-uSB6BAA) (Optional)
 
 Tutorials: [Molecular Property Prediction with GNNs, Parts 4 and 5](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical_3_2025.ipynb)
 
