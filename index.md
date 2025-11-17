@@ -76,9 +76,9 @@ Watch the first 10 minutes to understand discrete curvature
 ](https://youtu.be/pJyFg9NF7LQ?si=HXsi0sAmzFJI31qL&t=600)
 You can skip the first 10 minutes and start at 10:00
 
-Tutorials: [Molecular Property Prediction with GNNs, Parts 3-5](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical_3_2025.ipynb)
+Tutorials: [Molecular Property Prediction with GNNs, Parts 2 and 3](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical_3_2025.ipynb)
 
-Presentations:
+Presentation:
 [Graph Curvature and Oversquashing](https://github.com/ARMargolis/armargolis.github.io/blob/main/Geometric%20Deep%20Learning%2020250811.pdf)
 
 ### Session 6: November 17, at 11am EST/4pm GMT/5pm CEST
@@ -93,12 +93,22 @@ Only Part 1 (through 1:20)
 
 Tutorials: [Group Equivariant Neural Networks](https://colab.research.google.com/drive/1h7U15-qFC2yy6roRIfLPk5TSlo6sONsm)
 
+Presentation:
+[Equivariance](https://github.com/ARMargolis/armargolis.github.io/blob/main/Geometric%20Deep%20Learning%2020251117.pdf)
+
 ### Session 7: December 1, at 11am EST/4pm GMT/5pm CEST
 
 Readings: [Foundations of Geometric Learning](https://geometricdeeplearning.com/book/geometricpriors.html)
 
 [Foundations of Supervised Learning](https://geometricdeeplearning.com/book/foundations.html)
 (Optional)
+
+Lectures: 
+[Manifolds with Michael Bronstein] (https://www.youtube.com/watch?v=YCncgm38-bA)
+[Gauges with Taco Cohen] (https://www.youtube.com/watch?v=vu8-uSB6BAA) (Optional)
+
+Tutorials: [Molecular Property Prediction with GNNs, Parts 4 and 5](https://colab.research.google.com/github/ARMargolis/GDL100Practical2025/blob/main/GDL100_Practical_3_2025.ipynb)
+
 
 ***
 
